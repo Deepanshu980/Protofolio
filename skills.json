@@ -1,7 +1,7 @@
 [
     {
         "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+        "icon": "assets/images/skills/pyth.png"
     },
     {
         "name": "C++",
@@ -17,62 +17,62 @@
     },
     {
         "name": "Numpy",
-        "icon": ""
+        "icon": "assets/images/skills/num.png"
     },
     {
         "name": "Pandas",
-        "icon" : ""
+        "icon" : "assets/images/skills/pand.png"
     },
     {
         "name":"Seaborn",
-        "icon": ""
+        "icon": "assets/images/skills/sea.png"
     },
     {
         "name":"Matplotlib",
-        "icon":""
+        "icon":"assets/images/skills/mat.png"
     },
     {
         "name": "LLMs",
-        "icon": ""
+        "icon": "assets/images/skills/llm.png"
     },
     {
         "name": "Langchain",
-        "icon":""
+        "icon":"assets/images/skills/lang.png"
     },
     {
         "name":"LangGraph",
-        "icon":""
+        "icon":"assets/images/skills/gra.png"
     },
     {
         "name":"LangSmith",
-        "icon":""
+        "icon":"assets/images/skills/smi.png"
     },
     {
         "name":"Claude Code",
-        "icon":""
+        "icon":"assets/images/skills/cla.png"
     },
     {
         "name":"RAG",
-        "icon":""
+        "icon":"assets/images/skills/ag.png"
     },
     {
         "name": "TensorFlow",
-        "icon":""
+        "icon":"assets/images/skills/ten.png"
     },
     {
         "name":"PyTorch",
-        "icon":""
+        "icon":"assets/images/skills/pypy.png"
     },
     {
         "name":"Spring-Boot",
-        "icon":""
+        "icon":"assets/images/skills/spri.png"
     },
     {
         "name":"FastAPI",
-        "icon":""
+        "icon":"assets/images/skills/fast.png"
     },
     {
         "name":"MicroServices",
-        "icon":""
+        "icon":"assets/images/skills/mic.png"
     }
 ]
