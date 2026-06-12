@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "proto",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Protofolio"
+    }
+  },
+  {
+    "name": "Agritech AI",
+    "desc": "AgriTech AI is a multilingual farming assistant that helps farmers with crop recommendations, disease detection, weather updates, market prices, and government schemes through AI-powered voice and text conversations",
+    "image": "Agritech",
+    "category": "Full-Stack with Chatbot Integration",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Agri-tech"
+    }
+  },
+  {
+    "name": "Real Time Emotion-Detector",
+    "desc": "Real-Time Emotion Detector is an AI-powered computer vision system that analyzes facial expressions through a live camera feed to detect emotions such as happiness, sadness, anger, surprise, and fear in real time.",
+    "image": "emotion",
+    "category": "CNN and Deep Vision",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Emotion_detector-through-camera"
+    }
+  },
+  {
+    "name": "Gig Worker Credit Risk API",
+    "desc": "Gig Worker Credit Risk API is an AI-driven financial assessment service that evaluates gig workers' creditworthiness using alternative data sources, income patterns, and risk analytics to enable fair and accurate lending decisions",
+    "image": "gig",
+    "category": "Backend and Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Gig-Worker-Credit-Risk-API"
+    }
+  },
+  {
+    "name": "Model Creator",
+    "desc": "Model Creator is an AI-powered platform that enables users to design, train, customize, and deploy machine learning models with an intuitive interface, automated workflows, and real-time performance monitoring.",
+    "image": "model",
+    "category": "Full-Stack and Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Model-Creator"
+    }
+  },
+  {
+    "name": "Multilingual Ocean Hazard Detection",
+    "desc": "Multilingual Ocean Hazard Detection is an AI-powered system that analyzes social media content in multiple languages to identify and monitor ocean-related hazards such as storms, tsunamis, pollution, and maritime accidents, enabling real-time alerts and faster disaster response",
+    "image": "ocea",
+    "category": "Natural Language Processing",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Ocean-Hazard-Detection-on-social-media"
+    }
+  }
+]
