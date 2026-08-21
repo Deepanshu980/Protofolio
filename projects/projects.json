@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "name": "AI-OS LUNA",
     "desc": "AI-OS LUNA is an intelligent AI assistant designed to provide conversational interactions through voice and text, combining LLMs, memory, speech processing, and automation capabilities into a unified AI system.",
     "image": "proto",
@@ -9,6 +10,17 @@
     "code": "https://github.com/Deepanshu980/Protofolio"
   }
 },
+=======
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "proto",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Protofolio"
+    }
+  },
+>>>>>>> 7e6d3300546397f8df5432ad42b0270474f9ca15
   {
     "name": "Agritech AI",
     "desc": "AgriTech AI is a multilingual farming assistant that helps farmers with crop recommendations, disease detection, weather updates, market prices, and government schemes through AI-powered voice and text conversations",
@@ -40,6 +52,7 @@
     }
   },
   {
+<<<<<<< HEAD
   "name": "RAG - CHATBOT",
   "desc": "RAG Chatbot is an AI-powered conversational system that uses Retrieval-Augmented Generation to retrieve relevant information from a knowledge base and generate accurate, context-aware responses with source-grounded information.",
   "image": "model",
@@ -49,6 +62,17 @@
     "code": "https://github.com/Deepanshu980/Model-Creator"
   }
 },
+=======
+    "name": "Model Creator",
+    "desc": "Model Creator is an AI-powered platform that enables users to design, train, customize, and deploy machine learning models with an intuitive interface, automated workflows, and real-time performance monitoring.",
+    "image": "model",
+    "category": "Full-Stack and Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Model-Creator"
+    }
+  },
+>>>>>>> 7e6d3300546397f8df5432ad42b0270474f9ca15
   {
     "name": "Multilingual Ocean Hazard Detection",
     "desc": "Multilingual Ocean Hazard Detection is an AI-powered system that analyzes social media content in multiple languages to identify and monitor ocean-related hazards such as storms, tsunamis, pollution, and maritime accidents, enabling real-time alerts and faster disaster response",
