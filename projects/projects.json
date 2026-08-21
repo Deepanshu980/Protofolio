@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AI-OS LUNA",
+    "desc": "AI-OS LUNA is an intelligent AI assistant designed to provide conversational interactions through voice and text, combining LLMs, memory, speech processing, and automation capabilities into a unified AI system.",
+    "image": "proto",
+    "category": "AI Assistant and Full-Stack AI",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/Deepanshu980/Protofolio"
+  }
+},
+  {
+    "name": "Agritech AI",
+    "desc": "AgriTech AI is a multilingual farming assistant that helps farmers with crop recommendations, disease detection, weather updates, market prices, and government schemes through AI-powered voice and text conversations",
+    "image": "Agritech",
+    "category": "Full-Stack with Chatbot Integration",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Agri-tech"
+    }
+  },
+  {
+    "name": "Real Time Emotion-Detector",
+    "desc": "Real-Time Emotion Detector is an AI-powered computer vision system that analyzes facial expressions through a live camera feed to detect emotions such as happiness, sadness, anger, surprise, and fear in real time.",
+    "image": "emotion",
+    "category": "CNN and Deep Vision",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Emotion_detector-through-camera"
+    }
+  },
+  {
+    "name": "Gig Worker Credit Risk API",
+    "desc": "Gig Worker Credit Risk API is an AI-driven financial assessment service that evaluates gig workers' creditworthiness using alternative data sources, income patterns, and risk analytics to enable fair and accurate lending decisions",
+    "image": "gig",
+    "category": "Backend and Machine Learning",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Gig-Worker-Credit-Risk-API"
+    }
+  },
+  {
+  "name": "RAG - CHATBOT",
+  "desc": "RAG Chatbot is an AI-powered conversational system that uses Retrieval-Augmented Generation to retrieve relevant information from a knowledge base and generate accurate, context-aware responses with source-grounded information.",
+  "image": "model",
+  "category": "RAG, LLM and Full-Stack AI",
+  "links": {
+    "view": "#",
+    "code": "https://github.com/Deepanshu980/Model-Creator"
+  }
+},
+  {
+    "name": "Multilingual Ocean Hazard Detection",
+    "desc": "Multilingual Ocean Hazard Detection is an AI-powered system that analyzes social media content in multiple languages to identify and monitor ocean-related hazards such as storms, tsunamis, pollution, and maritime accidents, enabling real-time alerts and faster disaster response",
+    "image": "ocea",
+    "category": "Natural Language Processing",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Deepanshu980/Ocean-Hazard-Detection-on-social-media"
+    }
+  }
+]
