@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AI-OS LUNA",
+    "desc": "Intelligent AI assistant for conversational interactions through voice and text, combining LLMs, memory, speech processing, and automation into a unified AI system.",
+    "image": "proto",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/Deepanshu980/Multi-Modal-Ai-Assistant",
+      "code": "https://github.com/Deepanshu980/Multi-Modal-Ai-Assistant"
+    }
+  },
+  {
+    "name": "Agritech AI",
+    "desc": "Multilingual farming assistant that helps farmers with crop recommendations, disease detection, weather updates, market prices, and government schemes through AI-powered voice and text conversations.",
+    "image": "Agritech",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/Deepanshu980/Agri-tech",
+      "code": "https://github.com/Deepanshu980/Agri-tech"
+    }
+  },
+  {
+    "name": "Real-Time Emotion Detector",
+    "desc": "Computer vision system that analyzes facial expressions through a live camera feed to detect emotions such as happiness, sadness, anger, surprise, and fear in real time.",
+    "image": "emotion",
+    "category": "cv",
+    "links": {
+      "view": "https://github.com/Deepanshu980/Emotion_detector-through-camera",
+      "code": "https://github.com/Deepanshu980/Emotion_detector-through-camera"
+    }
+  },
+  {
+    "name": "Gig Worker Credit Risk API",
+    "desc": "AI-driven financial assessment API that evaluates gig workers' creditworthiness using alternative data, income patterns, and risk analytics for fairer lending decisions.",
+    "image": "gig",
+    "category": "backend",
+    "links": {
+      "view": "https://github.com/Deepanshu980/Gig-Worker-Credit-Risk-API",
+      "code": "https://github.com/Deepanshu980/Gig-Worker-Credit-Risk-API"
+    }
+  },
+  {
+    "name": "RAG Chatbot",
+    "desc": "Retrieval-Augmented Generation chatbot that pulls relevant information from a knowledge base and generates accurate, context-aware responses with source-grounded answers.",
+    "image": "model",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/Deepanshu980/n8n-google-drive-rag-pinnecone",
+      "code": "https://github.com/Deepanshu980/n8n-google-drive-rag-pinnecone"
+    }
+  },
+  {
+    "name": "Multilingual Ocean Hazard Detection",
+    "desc": "NLP system that analyzes social media content in multiple languages to identify ocean-related hazards such as storms, tsunamis, pollution, and maritime accidents for faster disaster response.",
+    "image": "ocea",
+    "category": "nlp",
+    "links": {
+      "view": "https://github.com/Deepanshu980/Ocean-Hazard-Detection-on-social-media",
+      "code": "https://github.com/Deepanshu980/Ocean-Hazard-Detection-on-social-media"
+    }
+  }
+]
